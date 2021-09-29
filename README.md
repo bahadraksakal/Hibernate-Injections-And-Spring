@@ -1,2 +1,2 @@
 # Hibernate Injections And Spring
-Bu repoda hibernete ve HQL ile çalışmalar ve örnekler yapılmıştır.
+Bu repoda hibernete-HQL ile ilgili çalışmalar ve örnekler yapılmıştır.
